@@ -1,0 +1,5 @@
+                                     LO QUE SE DEBE HACER
+
+1. Colocar los radio butons para escoger que criterio deseo ordenar: nombre, apellido, edad
+
+2. Implementar eso mismo con método de búsqueda secuencial, con los criterios: nombre apellido, edad
